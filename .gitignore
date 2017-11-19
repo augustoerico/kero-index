@@ -1,2 +1,3 @@
 env/
 .idea/
+store_search_bar/spiders/__pycache__
